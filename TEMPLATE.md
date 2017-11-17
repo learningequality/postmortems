@@ -1,8 +1,13 @@
-## Owner: <Your name goes here>
-## Involved:
-- List out the names of all people involved in responding to this incident
-## Meeting scheduled for: <Put date and time here, or say "Waived by <name>" if meeting is waived
-## Call recording: <Link to the Hangout or recording here>
+# Metadata
+
+Owner: <Your name goes here>
+
+Involved:
+  - List out the names of all people involved in responding to this incident
+  
+Meeting scheduled for: <Put date and time here, or say "Waived by <name>" if meeting is waived>
+
+Call recording: <Link to the Hangout or recording>
 
 # Overview
 
